@@ -1,2 +1,3 @@
 # optimuzk.github.io
-Página de inicio para alojar los diferentes proyectos web que iré realizando, se irá construyendo poco a poco.
+
+This will be my main website, where I'll post all my projects. I've something made, but it'll be finished by January!
